@@ -1,0 +1,12 @@
+{
+  "users": [
+    {
+      "token": "TESTE-123",
+      "name": "Usuário Exemplo",
+      "email": "teste@example.com",
+      "purchase_date": "2025-11-04",
+      "active": true
+    }
+  ],
+  "global_message": "Servidor online - tudo certo!"
+}
