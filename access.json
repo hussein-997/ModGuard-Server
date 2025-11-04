@@ -5,7 +5,7 @@
       "name": "Usuário Exemplo",
       "email": "teste@example.com",
       "purchase_date": "2025-11-04",
-      "active": true
+      "active": false
     }
   ],
   "global_message": "Servidor online - tudo certo!"
